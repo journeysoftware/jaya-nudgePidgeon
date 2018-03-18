@@ -16,7 +16,7 @@ import requests
 #    ]
 # }
 
-url = 'https://sleepy-beach-90505.herokuapp.com/nudges'
+url = 'https://journeyjaya.herokuapp.com/nudges'
 
 def deliverNudge(payload):
   global url
